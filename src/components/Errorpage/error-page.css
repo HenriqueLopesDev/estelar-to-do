@@ -1,0 +1,22 @@
+.error-page{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-title{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 30px;
+}
+
+.message{
+    font-family: "Poppins", sans-serif;
+    font-weight: 350;
+    margin-top: 15px;
+    font-size: 25px;
+    color: white;
+}

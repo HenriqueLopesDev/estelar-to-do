@@ -1,0 +1,23 @@
+.add-task{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    background-color: #0d050e;
+    color: #FFF;
+    justify-content: right;
+    border: 2px solid #00FFFF;
+    box-shadow: 0px 0px 2px #86CEEB;
+    border-radius: 5px;
+    height: 40px;
+    box-sizing: border-box;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
+
+.add-task:hover{
+    background-color: #230e27;
+}
+
+.back{
+    background-color: white;
+}

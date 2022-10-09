@@ -1,0 +1,25 @@
+.task-input{
+    display: flex;
+    margin-top: 15px;
+    flex-direction: column;
+    height: 200px;
+    justify-content: space-around;
+}
+
+.taskinputs{
+    font-size: 18px;
+    padding-left: 10px;
+    height: 40px;
+    border: 1px solid rgb(170, 170, 170);
+    border-radius: 5px;
+    background-color: #0a040a;
+    color: rgb(240, 240, 240);
+    outline: none;
+}
+
+.taskinputs::placeholder{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 5px;
+    font-size: 14px;
+    color: rgb(121, 121, 121);
+}

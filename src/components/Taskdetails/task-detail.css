@@ -1,0 +1,17 @@
+.description{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+
+.task-title{
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+
+.back-button{
+    margin: 20px 0px;
+}

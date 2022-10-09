@@ -1,0 +1,28 @@
+.task-container{
+    display: block;
+    height: 40px;
+    margin-top: 15px;
+    box-sizing: border-box;
+    border-bottom: 1px  solid rgb(218, 218, 218);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    align-items: center;
+}
+
+.tasktitle{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 350;
+    color: #fff;
+    cursor: pointer;
+}
+
+.icon{
+    color: white;
+    margin-left: 15px;
+    font-size: 17px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
